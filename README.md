@@ -70,5 +70,5 @@ http://localhost:5173
 
 ## Feito por:
 
-### Kevin
-### Linkedin: www.linkedin.com/in/kevinsilvaa
+### Jc
+### [Portifolio](https://portifolio-ecru-phi.vercel.app/)
