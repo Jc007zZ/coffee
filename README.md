@@ -7,7 +7,7 @@
 <h3 align="center">Projeto realizado durante a trilha para especialização em ReactJS da Rocketseat</h3> <br><br>
 
 <div align="center">
-  <a href="https://coffee-delivery-kevinsilvaa.vercel.app" target="_blank">Veja o resultado final clicando aqui</a>
+  <a href="https://coffee-nine-sandy.vercel.app/" target="_blank">Veja o resultado final clicando aqui</a>
 </div>
 
 &nbsp;
