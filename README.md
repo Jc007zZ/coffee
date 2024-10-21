@@ -70,5 +70,4 @@ http://localhost:5173
 
 ## Feito por:
 
-### Jc
-### [Portifolio](https://portifolio-ecru-phi.vercel.app/)
+### Jc:[Portifolio](https://portifolio-ecru-phi.vercel.app/)
