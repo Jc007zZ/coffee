@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Coffee Delivery ☕</h1>
 
-  ![Coffee Delivery Home](https://github.com/KevinSilvaa/coffee-delivery/assets/143517496/cd96562e-3aa5-4e52-9884-833d3fe62193)
-</div>
 
-<h3 align="center">Projeto realizado durante a trilha para especialização em ReactJS da Rocketseat</h3> <br><br>
+  [![Visit My Site](https://cdn.discordapp.com/attachments/1285284402749767784/1301886245454090280/coffe.png?ex=67261b8c&is=6724ca0c&hm=918e6fda71d0ba7b50314007499a46a330c0f66540ad62abb0fd572c95439564&)](https://coffee-nine-sandy.vercel.app/) 
+
+</div>
 
 <div align="center">
   <a href="https://coffee-nine-sandy.vercel.app/" target="_blank">Veja o resultado final clicando aqui</a>
@@ -15,10 +15,9 @@
 
 # ℹ️ Detalhes do projeto
 
-O <strong>Coffee Delivery</strong> é um cardápio digital de uma cafeteria que tem desde funcionalidade de adicionar itens no seu carrinho até a finalização da compra.<br>
-O principal objetivo deste projeto foi para treinar o uso de algumas ferramentas do React, e principalmente algumas bibliotecas para ajudar no
-projeto como o React-Hook-Form, Zod, Styled Components, e também a utilização de Hooks, Contextos e TypeScript para melhorar a tipagem
-do código, e principalmente, reduzir os erros.
+Eu identifiquei uma crescente demanda por cafés especiais e a necessidade de uma plataforma online que atendesse a esse público, especialmente durante a pandemia, quando muitos consumidores passaram a fazer compras pela internet. Meu objetivo era desenvolver uma loja de café online que oferecesse uma experiência de compra intuitiva e atraente,fizessem pedidos e realizassem pagamentos de forma simples e segura
+Utilizei React para construir a interface responsiva. Para validar os dados dos formulários, implementei a biblioteca Zod aumentando a confiabilidade do sistema. Além disso, utilizei JavaScript para implementar a lógica de negócios, como o gerenciamento do carrinho de compras e a integração com métodos de pagamento.O resultado foi uma loja de café online funcional e atrativa, com uma taxa de conversão significativa nas vendas. Recebi feedback positivo dos usuários sobre a facilidade de uso e a variedade de produtos disponíveis.
+
 
 <br>
 
