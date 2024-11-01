@@ -44,7 +44,7 @@ do código, e principalmente, reduzir os erros.
 ### Clone o projeto para o local desejado na sua máquina
 
 ```bash
-$ git clone git@github.com:KevinSilvaa/coffee-delivery.git
+$ git clone git@github.com:Jc007zZ/coffee.git
 ```
 
 &nbsp;
